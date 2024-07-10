@@ -1,7 +1,7 @@
 # Color Picker
 
 This project is a simple color picker tool built with React and Vite.
-
+You can [preview it here](https://justcuz3.github.io/Color-Picker/).
 ## Installation
 
 1. Clone the repository.
